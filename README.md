@@ -19,11 +19,11 @@
 
 <meta http-equiv=“X-UA-Compatible” content=“IE=8″>
 ```
-2. Google Chrome Frame也可以让IE用上Chrome的引擎:
+2.Google Chrome Frame也可以让IE用上Chrome的引擎:
 ```
 <meta http-equiv=“X-UA-Compatible” content=“chrome=1″ />
 ```
-.强制IE8使用IE7模式来解析
+3.强制IE8使用IE7模式来解析
 ```
 <meta http-equiv=“X-UA-Compatible” content=“IE=EmulateIE7″><!– IE7 mode –>
 //或者
