@@ -23,7 +23,7 @@
 ```
 <meta http-equiv=“X-UA-Compatible” content=“chrome=1″ />
 ```
-3.强制IE8使用IE7模式来解析
+.强制IE8使用IE7模式来解析
 ```
 <meta http-equiv=“X-UA-Compatible” content=“IE=EmulateIE7″><!– IE7 mode –>
 //或者
