@@ -1,5 +1,4 @@
 # 一行代码解决各种IE兼容问题,IE6,IE7,IE8,IE9,IE10
-How to solve the problem of IE
 
 1、百度源代码如下
 ```
